@@ -10,6 +10,8 @@ Step1: define a function
 Step2:using a for loop
 
 Step3: give a input  as eval(input())
+
+Step4:return the output
 ## Selection Sort Algorithm:
 1.	Set the first unsorted element as the minimum
 2.	For each of the unsorted elements, check if the element < current minimum.
